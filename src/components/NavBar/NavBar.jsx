@@ -1,5 +1,5 @@
 import React from 'react'
-
+//Navbar section
 const NavBar = () => {
   return (
     <div className='navBar flex justify-between items-center p-[3rem]'>
